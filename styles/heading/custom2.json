@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "title": "カスタム2",
+  "slug": "custom1",
+  "blockTypes": [ "core/heading" ],
+  "styles": {
+    "css": "background-color: #cdc;color: #006;font-size: var(--wp--preset--font-size--large);"
+  }
+}
